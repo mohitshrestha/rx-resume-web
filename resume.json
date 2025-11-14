@@ -60,54 +60,6 @@
       "id": "certifications",
       "items": [
         {
-          "id": "y3e1pyvs93vvknscx3k28unh",
-          "visible": false,
-          "name": "Introduction to Tableau",
-          "issuer": "DataCamp",
-          "date": "",
-          "summary": "",
-          "url": {
-            "label": "",
-            "href": ""
-          }
-        },
-        {
-          "id": "tio9wyzou3frzy3gyli95kkt",
-          "visible": false,
-          "name": "Intermediate SQL",
-          "issuer": "DataCamp",
-          "date": "",
-          "summary": "",
-          "url": {
-            "label": "",
-            "href": ""
-          }
-        },
-        {
-          "id": "tnv1d4c5tcgenwt6ylajkjoi",
-          "visible": false,
-          "name": "Joining Data in SQL",
-          "issuer": "DataCamp",
-          "date": "",
-          "summary": "",
-          "url": {
-            "label": "",
-            "href": ""
-          }
-        },
-        {
-          "id": "px8hw8r1aa5vm0m9qqpivpjp",
-          "visible": false,
-          "name": "Introduction to SQL",
-          "issuer": "DataCamp",
-          "date": "",
-          "summary": "",
-          "url": {
-            "label": "",
-            "href": ""
-          }
-        },
-        {
           "id": "zg9rranff7u6enji2ku64rqb",
           "visible": true,
           "name": " ",
@@ -477,16 +429,12 @@
     "layout": [
       [
         [
-          "profiles",
           "summary",
+          "profiles",
           "experience"
         ],
-        [
-          "volunteer",
-          "references",
-          "interests"
-        ]
-        ],
+        []
+      ],
         [
         [
           "certifications",
@@ -497,7 +445,11 @@
           "awards",
           "languages"
         ],
-        []
+        [          
+          "volunteer",
+          "references",
+          "interests"
+        ]
       ]
     ],
     "css": {
