@@ -1,0 +1,535 @@
+{
+  "basics": {
+    "name": "Mohit Shrestha",
+    "headline": "Data Driven Problem Solver ",
+    "email": "contact@mohitshrestha.com.np",
+    "phone": "+1 (434) 823-4701",
+    "location": "California, USA",
+    "url": {
+      "label": "",
+      "href": "https://mohitshrestha.com.np"
+    },
+    "customFields": [],
+    "picture": {
+      "url": "https://www.mohitshrestha.com.np/media/profile-pic.jpg",
+      "size": 64,
+      "aspectRatio": 1,
+      "borderRadius": 0,
+      "effects": {
+        "hidden": false,
+        "border": false,
+        "grayscale": false
+      }
+    }
+  },
+  "sections": {
+    "summary": {
+      "name": "Summary",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "summary",
+      "content": "<p><strong>Data Analytics &amp; Business Intelligence Consultant</strong> skilled in Python, R, SAS, SQL, Tableau, and Power BI. Specializes in turning complex data into strategic insights through advanced modeling, visualization, and storytelling. Builds predictive models and delivers actionable insights that help organizations make data-driven decisions, improve outcomes, and accelerate growth.</p>"
+    },
+    "awards": {
+      "name": "Honors and Awards",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "awards",
+      "items": [
+        {
+          "id": "u8kum6ohljqmku23asrxjaee",
+          "visible": true,
+          "title": " ",
+          "awarder": "",
+          "date": "",
+          "summary": "<p>Patrick Henry Merit Scholarship; Phi Beta Kappa; Wall Street Journal Student Achievement Award; Pi Mu Epsilon; Omicron Delta Kappa; Chi Beta Phi; Omicron Delta Epsilon</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "certifications": {
+      "name": "Certifications and Courses",
+      "columns": 2,
+      "separateLinks": true,
+      "visible": true,
+      "id": "certifications",
+      "items": [
+        {
+          "id": "y3e1pyvs93vvknscx3k28unh",
+          "visible": false,
+          "name": "Introduction to Tableau",
+          "issuer": "DataCamp",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "tio9wyzou3frzy3gyli95kkt",
+          "visible": false,
+          "name": "Intermediate SQL",
+          "issuer": "DataCamp",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "tnv1d4c5tcgenwt6ylajkjoi",
+          "visible": false,
+          "name": "Joining Data in SQL",
+          "issuer": "DataCamp",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "px8hw8r1aa5vm0m9qqpivpjp",
+          "visible": false,
+          "name": "Introduction to SQL",
+          "issuer": "DataCamp",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "zg9rranff7u6enji2ku64rqb",
+          "visible": true,
+          "name": " ",
+          "issuer": "",
+          "date": "",
+          "summary": "<p style=\"text-align: left\"><strong>Coursera</strong><br>IBM Data Science Professional Certificate: Databases and SQL for Data Science, Python for Data Science, Data Science Methodology, Open Source tools for Data Science</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "ki79bli0t0djknvnhlhkbxl4",
+          "visible": true,
+          "name": " ",
+          "issuer": "",
+          "date": "",
+          "summary": "<p style=\"text-align: left\"><strong>DataCamp</strong><br>Introduction to Tableau, Intermediate SQL,  Joining Data in SQL, Introduction to SQL</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "education": {
+      "name": "Education",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "education",
+      "items": [
+        {
+          "id": "r2zorawqt3tittyag5silzsh",
+          "visible": true,
+          "institution": "Wake Forest University School of Business",
+          "studyType": "Master of Science",
+          "area": "Business Analytics",
+          "score": "GPA: 4.0",
+          "date": "May 2019 - May 2021",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "ymhvo8bt738lfytm5p1jkcxl",
+          "visible": true,
+          "institution": "Hampden-Sydney College",
+          "studyType": "Bachelor of Science",
+          "area": "Mathematical Economics & Applied Mathematics",
+          "score": "GPA: 3.87",
+          "date": "Aug 2007 - May 2011",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "experience": {
+      "name": "Experience",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "experience",
+      "items": [
+        {
+          "id": "ihenbndkuwek0q2ijw7f00co",
+          "visible": true,
+          "company": "DATA ELEVATES",
+          "position": "Data Analytics & Business Intelligence Consultant",
+          "location": "San Diego, CA",
+          "date": "Feb 2022 - Present",
+          "summary": "<p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.chefannfoundation.org/what-we-do/healthy-school-food-pathway/\">Chef Ann Foundation – Healthy School Food Pathway Program</a></p><ul><li><p>Led stakeholder discovery and created Figma wireframes to align school‑district, participant, and workforce‑agency needs, defining key metrics and streamlining dashboard development for program tracking.</p></li><li><p>Engineered structured datasets and automated pipelines, integrating siloed spreadsheets and using Python to standardize NCES school district IDs, geocode counties, and generate clean data for analysis of participant career outcomes.</p></li><li><p>Developed production‑ready Tableau dashboards and Tableau Cloud infrastructure, automating data flows and updates to unify program data, democratize access across 75+ school districts, and enable real‑time tracking of completion rates and career growth.</p></li></ul><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.d4wn.org/\">Data for Workforce Nurturing (D4WN)</a></p><ul><li><p>Led AWS-based data pipelines, databases, and analytics for the <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://data.org/initiatives/inclusive-growth-recovery-challenge/use-of-business-intelligence-for-informal-workers/\">data.org</a> Inclusive Growth &amp; Recovery Challenge D4WN project, aggregating USSD, SMS, and WhatsApp data to deliver real-time labor market insights for 55,000+ informal workers in Mozambique.</p></li><li><p>Built predictive machine learning models for demand, churn, and income, and created interactive Tableau dashboards and GIS maps, enabling optimized work allocation and actionable workforce patterns.</p></li><li><p>Identified labor market inequalities and gender gaps—54% of workers never received a request, while the top 1% captured 28% of opportunities—informing fairer algorithms and policies to promote equitable access.</p></li><li><p>Partnered with cross-functional teams to implement data-driven solutions, translating insights into workforce interventions supporting project goals to increase income by 10% and double female participation.</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": "https://www.dataelevates.com"
+          }
+        },
+        {
+          "id": "me2x1zv6uyfqxcpj1l96spii",
+          "visible": true,
+          "company": "ENERGY EXEMPLAR",
+          "position": "Senior Energy Market Analyst",
+          "location": "Roseville, CA",
+          "date": "May 2021 - Dec 2021",
+          "summary": "<ul><li><p>Provided direct training and technical support to existing and potential clients to build concept models and modeling techniques.</p></li><li><p>Served as a Technical Solutions Engineer and collaborated with product development teams and project managers to resolve technical issues and generate product development stories resulting from client cases.</p></li><li><p>Identified the needs for PLEXOS within client organizations and prepared proof of concepts for demonstrations.</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": "https://www.energyexemplar.com"
+          }
+        },
+        {
+          "id": "dwn05fy5od35f0y01t54kmhj",
+          "visible": false,
+          "company": "DATA ELEVATES",
+          "position": "Data Analyst Intern",
+          "location": "San Diego, CA",
+          "date": "Jan 2021 - Apr 2021",
+          "summary": "<ul><li><p>Conducted data analysis of workers to better understand a digital job platform's user base and informal labor trends in Mozambique.</p></li><li><p>Built interactive dashboards to track project KPIs, and aid in developing effective policies to help empower and elevate informal workers.</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": "https://www.dataelevates.com"
+          }
+        },
+        {
+          "id": "yvva183eklii5hdlyjy5l1dg",
+          "visible": true,
+          "company": "WAKE FOREST UNIVERSITY - SCHOOL OF BUSINESS",
+          "position": "Graduate Peer Tutor, Master of Science in Business Analytics (MSBA) Program",
+          "location": "Winston-Salem, NC",
+          "date": "Sep 2020 - Dec 2020",
+          "summary": "<ul><li><p>Conducted individualized remote tutoring sessions for graduate students, strengthening their coding proficiency and analytical problem-solving skills through hands-on projects using SAS and R in the Analytics Software Technology course.</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": "https://business.wfu.edu/masters-in-business-analytics"
+          }
+        },
+        {
+          "id": "ymdoe411nz7fikqv27gb5z3h",
+          "visible": true,
+          "company": "ENERGY ADVISORY AND SOLUTIONS, ICF",
+          "position": "Associate / Analyst",
+          "location": "Fairfax, VA",
+          "date": "Jun 2011 - Sep 2016",
+          "summary": "<ul><li><p>Managed 50+ client projects ($75K–$2M), applying data analysis, SQL queries, and Excel/BI modeling to support strategic decision-making and track project progress.</p></li><li><p>Built dashboards and models to analyze large, complex datasets, including energy market trends, mergers &amp; acquisitions, and long-term pricing forecasts.</p></li><li><p>Conducted quantitative and economic analyses for major litigation and policy cases, producing actionable insights for client strategies and co-authoring white papers.</p></li><li><p>Maintained and structured IPM® model databases, integrating regulatory, utility, and vendor data (e.g., Bloomberg) to improve reporting and analysis efficiency.</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": "https://www.icf.com"
+          }
+        }
+      ]
+    },
+    "volunteer": {
+      "name": "Volunteering",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "volunteer",
+      "items": []
+    },
+    "interests": {
+      "name": "Interests",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "interests",
+      "items": []
+    },
+    "languages": {
+      "name": "Languages",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "languages",
+      "items": [
+        {
+          "id": "qcag40kiavaly9g2qn285r27",
+          "visible": true,
+          "name": " ",
+          "description": "English (fluent), Nepali (native), Hindi (intermediate)",
+          "level": 0
+        }
+      ]
+    },
+    "profiles": {
+      "name": "Profiles",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "profiles",
+      "items": [
+        {
+          "id": "tz9z2zjl4nr8nfktl2euno1w",
+          "visible": true,
+          "network": "Github",
+          "username": "mohitshrestha",
+          "icon": "github",
+          "url": {
+            "label": "",
+            "href": "https://github.com/mohitshrestha"
+          }
+        },
+        {
+          "id": "t4l860jzyievlhcqiruymze3",
+          "visible": true,
+          "network": "LinkedIn",
+          "username": "mohitshrestha",
+          "icon": "linkedin",
+          "url": {
+            "label": "",
+            "href": "https://www.linkedin.com/in/mohitshrestha/"
+          }
+        },
+        {
+          "id": "yufgamblcrkiha7w8bohukqo",
+          "visible": true,
+          "network": "X/Twitter",
+          "username": "MohitShrestha",
+          "icon": "x",
+          "url": {
+            "label": "",
+            "href": "https://x.com/MohitShrestha"
+          }
+        }
+      ]
+    },
+    "projects": {
+      "name": "Relevant Academic Research and Data Analytics Projects",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "projects",
+      "items": [
+        {
+          "id": "pu5pil0j9jw3ni2gz2vx5s7y",
+          "visible": true,
+          "name": " ",
+          "description": "",
+          "date": "",
+          "summary": "<p><strong>Employee Performance Analysis and Memo Report</strong></p><ul><li><p>Built MySQL relational data model with an Entity-Relationship Diagram (ERD) to help a car retailer transition from spreadsheets and used SQL to analyze employee performance, producing a memo identifying the top salesperson.</p></li></ul><p><strong>Twitter/X Sentiment Analysis</strong></p><ul><li><p>Utilized R for Twitter/X sentiment analysis, topic classification, and word cloud visualization.</p></li></ul><p><strong>North Carolina's Medicare Opioid Prescription Analysis</strong></p><ul><li><p>Wrangled and merged large Medicare datasets (over 32K physicians, 880K prescriptions, and 113 opioid drugs) in SAS, then performed EDA to visualize North Carolina’s opioid prescription trends.</p></li></ul><p><strong>Boston Crime Forecast</strong></p><ul><li><p>Aggregated three years of daily Boston crime data into monthly intervals and developed a Time Series ARIMA model to forecast crime counts for the next three months.</p></li></ul><p><strong>Bank Direct Marketing Analysis, UCI Machine Learning Repository</strong></p><ul><li><p>Predicted client subscription likelihood using logistic regression and random forest models on the UCI Bank Marketing dataset, achieving 80% prediction accuracy.</p></li></ul><p><strong>Purchasing Prediction</strong></p><ul><li><p>Predicted grocery customers’ likelihood of purchasing organic products using random forest, decision tree, and logistic regression models implemented in SAS and R.</p></li></ul><p><strong>Food Truck Forecasting</strong></p><ul><li><p>Developed a predictive model and interactive Power BI dashboard to help a food truck owner optimize location and pricing decisions based on weather, ingredient and fuel costs, travel time, and historical sales data.</p></li></ul>",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "publications": {
+      "name": "Publications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": false,
+      "id": "publications",
+      "items": [
+        {
+          "id": "d8xbiig4edtlno01vms9y6az",
+          "visible": true,
+          "name": "Study on Long-term Electric and Natural Gas Infrastructure Requirements in the Eastern Interconnection",
+          "publisher": "Association of Regulatory Utility Commissioners (NARUC) and Eastern Interconnection States Planning Council (EISPC)",
+          "date": "September 2014",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "nihibk1ohfm3iqs3f08zpc0c",
+          "visible": true,
+          "name": "Of Polar Vortexes and PJM Price Spikes",
+          "publisher": "ICF",
+          "date": "January 2014",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": "https://www.pserc.cornell.edu/empire/Of%20Polar%20Vortexes%20and%20PJM%20Price%20Spikes%20White%20Paper%20012414.pdf"
+          }
+        }
+      ]
+    },
+    "references": {
+      "name": "References",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "references",
+      "items": []
+    },
+    "skills": {
+      "name": "Skills",
+      "columns": 5,
+      "separateLinks": true,
+      "visible": true,
+      "id": "skills",
+      "items": [
+        {
+          "id": "gq2k2oiuzelpqmc4okld1clt",
+          "visible": true,
+          "name": "Programming & Modeling",
+          "description": "Python, R, SAS, SAS Enterprise Miner, Excel",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "n4cfikcscloaqmhg3978lond",
+          "visible": true,
+          "name": "Data Management & Databases",
+          "description": "SQL (MySQL/PostgreSQL), SAS, MS Access",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "wx6l1l3n7ufrbqhmk3td2spe",
+          "visible": true,
+          "name": "Notebooks & Documentation",
+          "description": "Quarto, Marimo, Jupyter, Markdown",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "u2j23scv7f411j6g1oau86f4",
+          "visible": true,
+          "name": "Project & Version Control",
+          "description": "Git, GitHub",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "mr5vgaffduxujn4pxhze86wz",
+          "visible": true,
+          "name": "AI Workflow Automation",
+          "description": "n8n (LLM-integrated workflows)",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "auamwawuxcwxtrrnr090p0yn",
+          "visible": true,
+          "name": "Data Visualization & Dashboards",
+          "description": "Tableau, PowerBI, Python, R",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "m6yf40mt7v4n0ow2x0lgjgjp",
+          "visible": true,
+          "name": "Deployment & DevOps",
+          "description": "Docker, Streamlit, FastAPI, GitHub Pages",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "bout4j57vual9kayixfag3pu",
+          "visible": true,
+          "name": "Web Development",
+          "description": "HTML, CSS, JavaScript, Magento (E-commerce), WordPress",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "grymiyyntnj65snzeja1zy3e",
+          "visible": true,
+          "name": "Energy Systems Optimization",
+          "description": "PLEXOS, Integrated Planning Model (IPM)",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "uwmxvc84cb1vu667dapagp43",
+          "visible": false,
+          "name": "Energy Data Vendor",
+          "description": "Bloomberg, SNL Energy, ABB-Ventyx",
+          "level": 0,
+          "keywords": []
+        }
+      ]
+    },
+    "custom": {}
+  },
+  "metadata": {
+    "template": "onyx",
+    "layout": [
+      [
+        [
+          "profiles",
+          "summary",
+          "experience"
+        ],
+        [
+          "volunteer",
+          "references",
+          "interests"
+        ]
+        ],
+        [
+        [
+          "certifications",
+          "skills",
+          "projects",
+          "publications",
+          "education",
+          "awards",
+          "languages"
+        ],
+        []
+      ]
+    ],
+    "css": {
+      "value": "* {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+      "visible": false
+    },
+    "page": {
+      "margin": 18,
+      "format": "letter",
+      "options": {
+        "breakLine": true,
+        "pageNumbers": true
+      }
+    },
+    "theme": {
+      "background": "#ffffff",
+      "text": "#000000",
+      "primary": "#113e5b"
+    },
+    "typography": {
+      "font": {
+        "family": "IBM Plex Serif",
+        "subset": "latin",
+        "variants": [
+          "regular"
+        ],
+        "size": 12
+      },
+      "lineHeight": 1.3,
+      "hideIcons": false,
+      "underlineLinks": true
+    },
+    "notes": ""
+  }
+}
